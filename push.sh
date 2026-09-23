@@ -1,4 +1,4 @@
-#!/bin/bash
+./#!/bin/bash
 # 一键保存、提交、推送到 github + cnb origin
 echo "===== 开始提交代码 ====="
 git add .
